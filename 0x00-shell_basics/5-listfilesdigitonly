@@ -1,0 +1,2 @@
+#!/bin/bash
+total 24  drwxr-xr-x 2 0 0 139 Jul  7 08:29 .  drwxr-xr-x 4 0 0  43 Jul  7 07:24 ..  -rw-r--r-- 1 0 0  16 Jul  7 07:43 0-current_working_directory  -rw-r--r-- 1 0 0 116 Jul  7 08:02 1-listit   -rw-r--r-- 1 0 0  15 Jul  7 08:05 2-bring_me_home  -rw-r--r-- 1 0 0 267 Jul  7 08:21 3-listfiles  -rw-r--r-- 1 0 0 385 Jul  7 08:29 4-listmorefiles  -rw-r--r-- 1 0 0  21 Jul  7 07:45 README.md
