@@ -1,1 +1,2 @@
+#!/bin/bash
 total 16    -rw-r--r-- 1 root root  16 Jul  7 07:43 0-current_working_directory            -rw-r--r-- 1 root root 116 Jul  7 08:02 1-listit      -rw-r--r-- 1 root root  15 Jul  7 08:05 2-bring_me_home     -rw-r--r-- 1 root root  21 Jul  7 07:45 README.md
