@@ -1,0 +1,2 @@
+#!/bin/bash
+source_dir=$(pwd)        destination_dir=$(alx-system_engineering-devops "$0x00-shell_basics")
